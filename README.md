@@ -1,6 +1,6 @@
 # Nanobanana
 
-Script untuk image enhancement menggunakan AI melalui aienhancer.ai API.
+Script Nanobanana melalui aienhancer.ai API.
 
 ## Deskripsi
 
