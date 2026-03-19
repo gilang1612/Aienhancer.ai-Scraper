@@ -2,10 +2,6 @@
 
 Script Nanobanana melalui aienhancer.ai API.
 
-## Deskripsi
-
-Script ini memungkinkan Anda untuk mengedit dan meningkatkan kualitas gambar menggunakan AI dengan prompt teks. Menggunakan API dari aienhancer.ai untuk proses image enhancement.
-
 ## Fitur
 
 - Upload gambar (JPG, PNG, WEBP)
